@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Édrei Mateus!</h1>
 <h3 align="center">A passionate frontend developer from Brazil.</h3>
 
-- 🌱 I’m currently learning **MongoDB, NodeJS and Python**
-
 - 📫 How to reach me **edreimateus@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
